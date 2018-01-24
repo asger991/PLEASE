@@ -1,3 +1,4 @@
+"HI!"
 #################
 #  Super Mario  #
 #    for CLI    #
